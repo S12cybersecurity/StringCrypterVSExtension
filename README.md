@@ -19,7 +19,7 @@
 3. Build the project.
 4. Install the extension in Visual Studio.
 
-You can also find the extension in the Visual Studio extensions list [here](<YOUR_LINK_HERE>).
+You can also find the extension in the Visual Studio extensions list [here](https://marketplace.visualstudio.com/items?itemName=0x12DarkDevelopment.stringcrypter).
 
 ## Usage
 
